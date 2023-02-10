@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav
+- 👋 ¡Hola!, I’m Gaurav
 - 👀 I’m interested in Machine Learning, Data Science, and Data engineering 
 - 🌱 I’m currently learning Data engineering 
 - 💞️ I'm a hobbyist game developer and I'm pretty good at Unity and Unreal Engine
