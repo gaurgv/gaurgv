@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data engineering 
 - 💞️ I'm a hobbyist game developer and I'm pretty good at Unity and Unreal Engine
 - 🎮 When on a break, I play video games, perform photogrammetry, create cinematic shots using UE5
+- 🎵 Synthwave
 
 <!---
 GauravGavas/GauravGavas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
